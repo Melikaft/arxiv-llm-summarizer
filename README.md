@@ -1,2 +1,12 @@
-# arxiv-llm-summarizer
-An NLP project for automatic summarization of arXiv research papers using state-of-the-art transformer models
+
+
+# ArXiv LLM Summarizer
+Summarize scientific papers using LLM (BART / Transformers).
+
+## Run
+pip install -r requirements.txt
+python main.py
+
+## Example
+Input: arxiv abstract  
+Output: short summary
